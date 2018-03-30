@@ -1,5 +1,7 @@
 # OAuth2 with JWT
 
+# 參考來源 : https://github.com/dynamind/spring-boot-security-oauth2-minimal
+
 ## Introduction
 I've created this project to understand how to deal with clients accessing protected resource servers using a central authorization server. Apart from general OAuth 2.0 and JWT theory, I wanted to study how the following components interoperate:
 
